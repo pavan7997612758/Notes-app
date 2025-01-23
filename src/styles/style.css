@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .note-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+  }
+
+  input, textarea, button {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    font-size: 1rem;
+  }
